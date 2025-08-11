@@ -27,6 +27,13 @@ button {
   border: none;
   font-weight: bold;
 }
+#deleteAll-el {
+  background: white;
+  color: #5f9341;
+  padding: 10px 20px;
+  border: 1px solid #5f9341;
+  font-weight: bold;
+}
 
 ul {
   margin-top: 20px;
